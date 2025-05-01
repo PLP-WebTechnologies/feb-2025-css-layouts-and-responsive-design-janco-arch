@@ -16,6 +16,10 @@
 }
 
 .container {
+    display:flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     background-color: #b5adad;
     color: #450d0d;
     font-family: Arial, sans-serif;
